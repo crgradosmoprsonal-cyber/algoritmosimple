@@ -21,7 +21,7 @@ Nota: el número de intentos y tiempo dependerá del alfabeto y la contraseña.
 
 - Para contraseñas largas (8+) o con un alfabeto grande, el tiempo crece exponencialmente porque el número de combinaciones posibles aumenta mucho, haciendo la fuerza bruta inviable.
 - Para contraseñas cortas y alfabeto pequeño, el algoritmo encuentra la contraseña casi al instante.
-- Esto demuestra por qué es importante usar contraseñas largas y con símbolos: aumenta la seguridad contra ataques de fuerza bruta
+- Esto demuestra por qué es importante usar contraseñas largas y con símbolos ya que aumenta la seguridad contra ataques de fuerza bruta
 
 
 
